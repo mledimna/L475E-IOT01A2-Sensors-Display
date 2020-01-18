@@ -1,0 +1,50 @@
+system_stm32l4xx.pbi: \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\Src\system_stm32l4xx.c \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include\stm32l4xx.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l475xx.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Include\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Include/mpu_armv7.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Inc\stm32l4xx_hal_conf.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_rcc.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_rcc_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_exti.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_gpio.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_dma.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_dma_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_dfsdm.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_cortex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_flash.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ramfunc.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_i2c.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_i2c_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_pwr.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_qspi.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_spi.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_spi_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_tim.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_tim_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_uart.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_uart_ex.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc\stm32l4xx_hal_pcd.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usb.h \
+  D:\Programmation\STM32\L475E-IOT01A2\Codes\DataDisplay\Sensors\EWARM/../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pcd_ex.h
